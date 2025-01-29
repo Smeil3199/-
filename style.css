@@ -45,18 +45,7 @@ section {
     color: #333;
 }
 
-/* Пример фона с градиентом для категории Основные блюда */
-.menu-category.main-dishes {
-    background:( #ff7e5f, #feb47b); /* Градиент */
-}
 
-
-.menu-category.drinks {
-    background: url('drinks-bg.jpg') no-repeat center center/cover;
-}
-
-.menu-category.desserts {
-    background: url('desserts-bg.jpg') no-repeat center center/cover;
 
 .menu-item {
     background-color: white;
