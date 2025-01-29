@@ -46,7 +46,7 @@ section {
 }
 
 .menu-category.main-dishes {
-    background: url('main-dishes-bg.jpg') no-repeat center center/cover;
+    background="main-dishes-bg.jpg" no-repeat center center/cover;
 }
 
 .menu-category.drinks {
