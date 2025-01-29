@@ -45,6 +45,17 @@ section {
     color: #333;
 }
 
+.menu-category.main-dishes {
+    background: url('main-dishes-bg.jpg') no-repeat center center/cover;
+}
+
+.menu-category.drinks {
+    background: url('drinks-bg.jpg') no-repeat center center/cover;
+}
+
+.menu-category.desserts {
+    background: url('desserts-bg.jpg') no-repeat center center/cover;
+
 .menu-item {
     background-color: white;
     padding: 10px;
