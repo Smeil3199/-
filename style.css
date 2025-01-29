@@ -45,9 +45,11 @@ section {
     color: #333;
 }
 
+/* Пример фона с градиентом для категории Основные блюда */
 .menu-category.main-dishes {
-    background: url('https://img.freepik.com/premium-photo/restaurant-cafe-or-coffee-shop-interior-with-people-abstract-defocused-blur-background_293060-17187.jpg?w=2000') no-repeat center center/cover;
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Градиент */
 }
+
 
 .menu-category.drinks {
     background: url('drinks-bg.jpg') no-repeat center center/cover;
