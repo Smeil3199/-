@@ -47,7 +47,7 @@ section {
 
 /* Пример фона с градиентом для категории Основные блюда */
 .menu-category.main-dishes {
-    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Градиент */
+    background: linear-gradient( #ff7e5f, #feb47b); /* Градиент */
 }
 
 
